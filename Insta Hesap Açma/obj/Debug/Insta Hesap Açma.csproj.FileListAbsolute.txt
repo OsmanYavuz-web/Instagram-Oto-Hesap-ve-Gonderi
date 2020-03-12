@@ -1,0 +1,44 @@
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe.config
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.pdb
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\InstagramApiSharp.dll
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csprojAssemblyReference.cache
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Form1.resources
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Properties.Resources.resources
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.GenerateResource.cache
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CoreCompileInputs.cache
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CopyComplete
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\source\repos\Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.pdb
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe.config
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.pdb
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\InstagramApiSharp.dll
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csprojAssemblyReference.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Form1.resources
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Properties.Resources.resources
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.GenerateResource.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CoreCompileInputs.cache
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CopyComplete
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\Box Sync\Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.pdb
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe.config
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\Insta Hesap Açma.pdb
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\InstagramApiSharp.dll
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\WebDriver.dll
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\bin\Debug\WebDriver.xml
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csprojAssemblyReference.cache
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Form1.resources
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta_Hesap_Açma.Properties.Resources.resources
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.GenerateResource.cache
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CoreCompileInputs.cache
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.csproj.CopyComplete
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.exe
+C:\Users\omnyvz\Box\1- Kendi Projelerim\6- Insta Hesap Açma\Insta Hesap Açma Proje\Insta Hesap Açma\obj\Debug\Insta Hesap Açma.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insta Hesap Açma", "Insta Hesap Açma\Insta Hesap Açma.csproj", "{4D600611-4F47-44D2-887D-4446D8C89977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D600611-4F47-44D2-887D-4446D8C89977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D600611-4F47-44D2-887D-4446D8C89977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D600611-4F47-44D2-887D-4446D8C89977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D600611-4F47-44D2-887D-4446D8C89977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCF7789-2694-4F3C-BF4C-B4C2835BAFE0}
+	EndGlobalSection
+EndGlobal
